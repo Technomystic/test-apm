@@ -1,0 +1,9 @@
+*.DS_Store
+*xcuserdata*
+*.idea*
+Archives
+build-dir
+DerivedData
+fastlane-env.properties
+fastlane/README.md
+fastlane/*.log
